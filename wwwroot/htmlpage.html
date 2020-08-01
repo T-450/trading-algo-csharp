@@ -1,0 +1,293 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<style>
+    .flexContainer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    h1 {
+        color: #424242;
+        padding: 10px;
+        border-bottom: #424242 solid 1px;
+    }
+
+    .hideProgress {
+        visibility: hidden;
+    }
+
+    body {
+        background-color: #fafafa;
+        height: 100vh;
+    }
+</style>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div class="progress hideProgress" id="progressBar">
+        <div class="indeterminate"></div>
+    </div>
+
+    <div class="container">
+        <h1> Agente de Cotação </h1>
+        <!--Chart-->
+        <div class="flexContainer">
+            <canvas id="chart" width="800" height="400"></canvas>
+        </div>
+        
+        <!--Form-->
+        <form class="col s12" id="myForm">
+            <div class="row">
+                <div class="input-field col s6">
+                    <label for="patrimonio">Patrimonio</label>
+                    <input id="patrimonio" placeholder="R$" id="patrimonio" type="number" class="validate">
+                </div>
+                <div class="input-field col s6">
+                    <label for="taxaCompra">Taxa de Compra</label>
+                    <input id="taxaCompra" type="number" class="validate">
+                </div>
+                <div class="input-field col s6">
+                    <label for="taxaVenda">Taxa de Venda</label>
+                    <input id="taxaVenda" type="number" class="validate">
+                </div>
+            </div>
+            <button type="submit" class="btn waves-effect waves-light" name="action">GO!</button>
+        </form>
+        <!--<i class="material-icons right"></i>-->
+        <table class="highlight " id="table" style="width: 100vw">
+            <thead>
+                <tr>
+                    <th>Cotacao Atual</th>
+                    <th>Datada Transação</th>
+                    <th>Media Movel</th>
+                    <th>Saldo(Reais)</th>
+                    <th>Saldo(Dolares)</th>
+                    <th>Ação</th>
+                    <th>Patrimonio</th>
+                </tr>
+
+            </thead>
+
+            <tbody id="tableBody">
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th colspan="3">Lucro Obtido :</th>
+                    <td id="lucroObtido"></td>
+                </tr>
+            </tfoot>
+        </table>
+
+    </div>
+<!-- #region CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <!-- #endregion -->
+
+<script>
+
+    // Table
+    var table = document.querySelector('#tableBody');
+    var lucroObtido = document.querySelector("#lucroObtido");
+    console.log(lucroObtido);
+    //For progress
+    let progressBar = document.querySelector("#progressBar");
+    //URL
+    var uri = "https://localhost:44330/api/values";
+    //DataSets
+    var patrimonioTotal = [];
+    var cotacao = [];
+    var mediaMovel = [];
+    var ema = [];
+
+    var pat = 0;
+
+    document.querySelector('#myForm').addEventListener('submit', async function doSomething(event) {
+        event.preventDefault();
+        await InputAndRequest(event);
+    });
+
+    async function InputAndRequest(e) {
+
+       
+        //e.preventDefault();
+        //Form inputs
+        let taxaVenda =  document.querySelector('#taxaCompra').value;
+        let taxaCompra = document.querySelector('#taxaVenda').value;
+        let patrimonio = document.querySelector('#patrimonio').value;
+        pat = patrimonio;
+        console.log(taxaVenda + " " + taxaCompra + " " + patrimonio);
+        progressBar.classList.remove("hideProgress");
+            //Request
+            fetch(uri,
+                    {
+                        method: 'POST',
+                        headers: {
+                            'Accept': 'application/json',
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({
+                            precoVenda: taxaVenda,
+                            precoCompra: taxaCompra,
+                            patrimonioInicial: patrimonio
+                        })
+                    })
+                .then(response => response.json())
+                .then((res) => {
+                    toTable(res);
+                    setTimeout(() => {
+                            progressBar.classList.add("hideProgress");
+                        },
+                        4000);
+                     chartIt(cotacao, mediaMovel, patrimonioTotal, ema);
+
+                })
+                .catch(error => console.log(error));
+
+    }
+    async function chartIt(dataSetCotacao, dataSetMediaMovel, dataSetPatrimonio, dataSetEma) {
+
+        var label = [];
+
+        for (var i = 0; i < 260; i++) {
+            label.push(i);
+        }
+        //Chart
+         var chart = document.querySelector("#chart").getContext('2d');
+
+         //Chart Config
+         let lineChart = new Chart(chart,
+             {
+                 type: 'line',
+                 data: {
+                     labels: [...label],
+                     datasets: [
+                         {
+                             label: "Cotacao",
+                             borderColor: "#b0bec5",
+                             data: dataSetCotacao,
+                             fill: false,
+                             stepped: true
+                         },
+                         {
+                             label: "MediaMovel",
+                             borderColor: "#fff176",
+                             data: dataSetMediaMovel,
+                             fill: false,
+                             stepped: true
+                         },
+                         {
+                             label: "MediaExponencial",
+                             borderColor: '#64b5f6',
+                             data: dataSetEma,
+                             fill: false,
+                             stepped: true
+                        },
+                         {
+                             label: "Patrimonio",
+                             borderColor: '#69f0ae',
+                             data: dataSetPatrimonio,
+                             fill: false,
+                             stepped: true
+                         }
+                     ]
+                 }, options: {  
+                     maintainAspectRatio: false,  
+                     scales: {  
+                         yAxes: [{  
+                             ticks: {  
+                                 min: 1,  
+                                 beginAtZero: true,
+                                 callback: function(value, index, values) {
+                                     return 'R$ ' + value;
+                                 }
+                             },  
+                             gridLines: {  
+                                 display: true,  
+                                 color: "rgba(255,99,164,0.2)"  
+                             }  
+                         }],  
+                         xAxes: [{  
+                             ticks: {  
+                                 min: 0,
+                                 stacked: true,
+                                 beginAtZero: true,
+                                 callback: function(value, index, values) {
+                                     return value;
+                                 }
+                             },  
+                             gridLines: {  
+                                 display: true
+                             }  
+                         }]  
+                     }  
+                 }
+
+             });
+         //
+    }
+    function toTable(arg) {
+        //let test = arg[0];
+        console.log(arg[0]);
+
+        arg.forEach(el => {
+
+            handleTable(el);
+            patrimonioTotal.push(el.patrimonioTotal);
+            cotacao.push(el.cotacaoAtual);
+            mediaMovel.push(el.mediaMovel);
+            ema.push(el.ema);
+            lucroObtido.innerHTML = `<th><p>${(el.patrimonioTotal - pat).toFixed(2)}</p></th>`;
+        });
+
+    };
+    function getAction(prop) {
+        let result;
+        switch (prop) {
+        case 1:
+            result = "Compra";
+            break;
+        case 2:
+            result = "Venda";
+            break;
+        case 3:
+            result = "Hold";
+            break;
+        };
+
+        return result;
+    }
+
+    function handleTable(obj) {
+        let row = document.createElement('tr');
+        Object.entries(obj).forEach(entry => {
+            let key = entry[0];
+            let value = entry[1];
+
+            if (key === 'action') {
+                let action = getAction(entry[1]);
+                let td = document.createElement('td');
+                let text = document.createTextNode(`${action}`);
+                td.appendChild(text);
+                row.appendChild(td);
+
+            } else {
+                let td = document.createElement('td');
+                let text = document.createTextNode(`${value}`);
+                td.appendChild(text);
+                row.appendChild(td);
+            }
+        });
+        table.appendChild(row);
+    }
+</script>
+</body>
+</html>

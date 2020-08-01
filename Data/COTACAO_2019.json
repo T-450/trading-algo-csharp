@@ -1,0 +1,1015 @@
+
+  [
+        {
+            "cotacaoCompra": 3.8589,
+            "dataHoraCotacao": "2019-01-02 13:04:46.568"
+        },
+        {
+            "cotacaoCompra": 3.7677,
+            "dataHoraCotacao": "2019-01-03 13:04:50.817"
+        },
+        {
+            "cotacaoCompra": 3.7621,
+            "dataHoraCotacao": "2019-01-04 13:06:29.332"
+        },
+        {
+            "cotacaoCompra": 3.7056,
+            "dataHoraCotacao": "2019-01-07 13:09:39.652"
+        },
+        {
+            "cotacaoCompra": 3.7202,
+            "dataHoraCotacao": "2019-01-08 13:09:06.45"
+        },
+        {
+            "cotacaoCompra": 3.6925,
+            "dataHoraCotacao": "2019-01-09 13:22:28.243"
+        },
+        {
+            "cotacaoCompra": 3.6863,
+            "dataHoraCotacao": "2019-01-10 13:03:05.634"
+        },
+        {
+            "cotacaoCompra": 3.7135,
+            "dataHoraCotacao": "2019-01-11 13:09:51.933"
+        },
+        {
+            "cotacaoCompra": 3.7255,
+            "dataHoraCotacao": "2019-01-14 13:07:34.594"
+        },
+        {
+            "cotacaoCompra": 3.7043,
+            "dataHoraCotacao": "2019-01-15 13:13:35.572"
+        },
+        {
+            "cotacaoCompra": 3.7191,
+            "dataHoraCotacao": "2019-01-16 13:07:34.226"
+        },
+        {
+            "cotacaoCompra": 3.7585,
+            "dataHoraCotacao": "2019-01-17 13:11:05.484"
+        },
+        {
+            "cotacaoCompra": 3.748,
+            "dataHoraCotacao": "2019-01-18 13:10:12.53"
+        },
+        {
+            "cotacaoCompra": 3.7699,
+            "dataHoraCotacao": "2019-01-21 13:05:38.72"
+        },
+        {
+            "cotacaoCompra": 3.7609,
+            "dataHoraCotacao": "2019-01-22 13:11:32.497"
+        },
+        {
+            "cotacaoCompra": 3.7988,
+            "dataHoraCotacao": "2019-01-23 13:07:25.966"
+        },
+        {
+            "cotacaoCompra": 3.7809,
+            "dataHoraCotacao": "2019-01-24 13:08:47.398"
+        },
+        {
+            "cotacaoCompra": 3.7613,
+            "dataHoraCotacao": "2019-01-25 13:05:43.204"
+        },
+        {
+            "cotacaoCompra": 3.767,
+            "dataHoraCotacao": "2019-01-28 13:08:36.868"
+        },
+        {
+            "cotacaoCompra": 3.7364,
+            "dataHoraCotacao": "2019-01-29 13:19:36.769"
+        },
+        {
+            "cotacaoCompra": 3.7145,
+            "dataHoraCotacao": "2019-01-30 13:08:47.599"
+        },
+        {
+            "cotacaoCompra": 3.6513,
+            "dataHoraCotacao": "2019-01-31 13:02:55.88"
+        },
+        {
+            "cotacaoCompra": 3.6688,
+            "dataHoraCotacao": "2019-02-01 13:09:03.898"
+        },
+        {
+            "cotacaoCompra": 3.675,
+            "dataHoraCotacao": "2019-02-04 13:11:36.952"
+        },
+        {
+            "cotacaoCompra": 3.6735,
+            "dataHoraCotacao": "2019-02-05 13:10:43.043"
+        },
+        {
+            "cotacaoCompra": 3.7013,
+            "dataHoraCotacao": "2019-02-06 13:11:47.946"
+        },
+        {
+            "cotacaoCompra": 3.7187,
+            "dataHoraCotacao": "2019-02-07 13:12:02.413"
+        },
+        {
+            "cotacaoCompra": 3.7178,
+            "dataHoraCotacao": "2019-02-08 13:03:36.561"
+        },
+        {
+            "cotacaoCompra": 3.7385,
+            "dataHoraCotacao": "2019-02-11 13:10:41.426"
+        },
+        {
+            "cotacaoCompra": 3.729,
+            "dataHoraCotacao": "2019-02-12 13:09:34.609"
+        },
+        {
+            "cotacaoCompra": 3.7271,
+            "dataHoraCotacao": "2019-02-13 13:06:42.606"
+        },
+        {
+            "cotacaoCompra": 3.775,
+            "dataHoraCotacao": "2019-02-14 13:07:55.499"
+        },
+        {
+            "cotacaoCompra": 3.7149,
+            "dataHoraCotacao": "2019-02-15 13:03:29.581"
+        },
+        {
+            "cotacaoCompra": 3.731,
+            "dataHoraCotacao": "2019-02-18 13:10:48.574"
+        },
+        {
+            "cotacaoCompra": 3.72,
+            "dataHoraCotacao": "2019-02-19 13:09:51.281"
+        },
+        {
+            "cotacaoCompra": 3.7094,
+            "dataHoraCotacao": "2019-02-20 13:10:38.213"
+        },
+        {
+            "cotacaoCompra": 3.7589,
+            "dataHoraCotacao": "2019-02-21 13:11:30.917"
+        },
+        {
+            "cotacaoCompra": 3.7424,
+            "dataHoraCotacao": "2019-02-22 13:04:45.851"
+        },
+        {
+            "cotacaoCompra": 3.7279,
+            "dataHoraCotacao": "2019-02-25 13:04:32.81"
+        },
+        {
+            "cotacaoCompra": 3.7589,
+            "dataHoraCotacao": "2019-02-26 13:02:36.426"
+        },
+        {
+            "cotacaoCompra": 3.7345,
+            "dataHoraCotacao": "2019-02-27 13:10:37.626"
+        },
+        {
+            "cotacaoCompra": 3.7379,
+            "dataHoraCotacao": "2019-02-28 13:07:41.798"
+        },
+        {
+            "cotacaoCompra": 3.7826,
+            "dataHoraCotacao": "2019-03-01 13:25:14.449"
+        },
+        {
+            "cotacaoCompra": 3.8297,
+            "dataHoraCotacao": "2019-03-06 15:41:49.299"
+        },
+        {
+            "cotacaoCompra": 3.8481,
+            "dataHoraCotacao": "2019-03-07 13:10:11.6"
+        },
+        {
+            "cotacaoCompra": 3.8672,
+            "dataHoraCotacao": "2019-03-08 13:02:35.458"
+        },
+        {
+            "cotacaoCompra": 3.8455,
+            "dataHoraCotacao": "2019-03-11 13:05:37.826"
+        },
+        {
+            "cotacaoCompra": 3.8123,
+            "dataHoraCotacao": "2019-03-12 13:02:32.417"
+        },
+        {
+            "cotacaoCompra": 3.8259,
+            "dataHoraCotacao": "2019-03-13 13:07:32.528"
+        },
+        {
+            "cotacaoCompra": 3.8321,
+            "dataHoraCotacao": "2019-03-14 13:04:49.965"
+        },
+        {
+            "cotacaoCompra": 3.8338,
+            "dataHoraCotacao": "2019-03-15 13:08:41.666"
+        },
+        {
+            "cotacaoCompra": 3.8105,
+            "dataHoraCotacao": "2019-03-18 13:10:41.916"
+        },
+        {
+            "cotacaoCompra": 3.7756,
+            "dataHoraCotacao": "2019-03-19 13:06:32.31"
+        },
+        {
+            "cotacaoCompra": 3.7891,
+            "dataHoraCotacao": "2019-03-20 13:08:41.147"
+        },
+        {
+            "cotacaoCompra": 3.7961,
+            "dataHoraCotacao": "2019-03-21 13:04:01.75"
+        },
+        {
+            "cotacaoCompra": 3.8809,
+            "dataHoraCotacao": "2019-03-22 13:03:37.9"
+        },
+        {
+            "cotacaoCompra": 3.8764,
+            "dataHoraCotacao": "2019-03-25 13:05:19.849"
+        },
+        {
+            "cotacaoCompra": 3.864,
+            "dataHoraCotacao": "2019-03-26 13:10:30.521"
+        },
+        {
+            "cotacaoCompra": 3.9383,
+            "dataHoraCotacao": "2019-03-27 13:04:31.363"
+        },
+        {
+            "cotacaoCompra": 3.9676,
+            "dataHoraCotacao": "2019-03-28 13:05:48.911"
+        },
+        {
+            "cotacaoCompra": 3.8961,
+            "dataHoraCotacao": "2019-03-29 13:05:04.372"
+        },
+        {
+            "cotacaoCompra": 3.8676,
+            "dataHoraCotacao": "2019-04-01 13:11:37.13"
+        },
+        {
+            "cotacaoCompra": 3.8655,
+            "dataHoraCotacao": "2019-04-02 13:06:40.208"
+        },
+        {
+            "cotacaoCompra": 3.843,
+            "dataHoraCotacao": "2019-04-03 13:08:42.683"
+        },
+        {
+            "cotacaoCompra": 3.8707,
+            "dataHoraCotacao": "2019-04-04 13:04:33.916"
+        },
+        {
+            "cotacaoCompra": 3.8616,
+            "dataHoraCotacao": "2019-04-05 13:10:41.534"
+        },
+        {
+            "cotacaoCompra": 3.8652,
+            "dataHoraCotacao": "2019-04-08 13:02:58.414"
+        },
+        {
+            "cotacaoCompra": 3.8557,
+            "dataHoraCotacao": "2019-04-09 13:02:35.147"
+        },
+        {
+            "cotacaoCompra": 3.8339,
+            "dataHoraCotacao": "2019-04-10 13:04:52.338"
+        },
+        {
+            "cotacaoCompra": 3.8393,
+            "dataHoraCotacao": "2019-04-11 13:07:38.923"
+        },
+        {
+            "cotacaoCompra": 3.8679,
+            "dataHoraCotacao": "2019-04-12 13:09:35.193"
+        },
+        {
+            "cotacaoCompra": 3.8724,
+            "dataHoraCotacao": "2019-04-15 13:04:48.792"
+        },
+        {
+            "cotacaoCompra": 3.8907,
+            "dataHoraCotacao": "2019-04-16 13:11:50.933"
+        },
+        {
+            "cotacaoCompra": 3.9219,
+            "dataHoraCotacao": "2019-04-17 13:06:34.829"
+        },
+        {
+            "cotacaoCompra": 3.9364,
+            "dataHoraCotacao": "2019-04-18 13:09:54.238"
+        },
+        {
+            "cotacaoCompra": 3.9224,
+            "dataHoraCotacao": "2019-04-22 13:09:34.804"
+        },
+        {
+            "cotacaoCompra": 3.943,
+            "dataHoraCotacao": "2019-04-23 13:08:45.722"
+        },
+        {
+            "cotacaoCompra": 3.9624,
+            "dataHoraCotacao": "2019-04-24 13:03:31.357"
+        },
+        {
+            "cotacaoCompra": 3.9719,
+            "dataHoraCotacao": "2019-04-25 13:10:33.168"
+        },
+        {
+            "cotacaoCompra": 3.9347,
+            "dataHoraCotacao": "2019-04-26 13:11:30.05"
+        },
+        {
+            "cotacaoCompra": 3.9358,
+            "dataHoraCotacao": "2019-04-29 13:10:45.166"
+        },
+        {
+            "cotacaoCompra": 3.9447,
+            "dataHoraCotacao": "2019-04-30 13:07:21.358"
+        },
+        {
+            "cotacaoCompra": 3.9644,
+            "dataHoraCotacao": "2019-05-02 13:10:38.779"
+        },
+        {
+            "cotacaoCompra": 3.9382,
+            "dataHoraCotacao": "2019-05-03 13:06:41.703"
+        },
+        {
+            "cotacaoCompra": 3.9618,
+            "dataHoraCotacao": "2019-05-06 13:02:47.408"
+        },
+        {
+            "cotacaoCompra": 3.9874,
+            "dataHoraCotacao": "2019-05-07 13:04:57.805"
+        },
+        {
+            "cotacaoCompra": 3.9338,
+            "dataHoraCotacao": "2019-05-08 13:02:48.453"
+        },
+        {
+            "cotacaoCompra": 3.9667,
+            "dataHoraCotacao": "2019-05-09 13:04:00.938"
+        },
+        {
+            "cotacaoCompra": 3.9572,
+            "dataHoraCotacao": "2019-05-10 13:08:45.718"
+        },
+        {
+            "cotacaoCompra": 3.9884,
+            "dataHoraCotacao": "2019-05-13 13:05:59.645"
+        },
+        {
+            "cotacaoCompra": 3.9782,
+            "dataHoraCotacao": "2019-05-14 13:07:54.868"
+        },
+        {
+            "cotacaoCompra": 4.0025,
+            "dataHoraCotacao": "2019-05-15 13:07:16.383"
+        },
+        {
+            "cotacaoCompra": 4.0132,
+            "dataHoraCotacao": "2019-05-16 13:05:48.101"
+        },
+        {
+            "cotacaoCompra": 4.0838,
+            "dataHoraCotacao": "2019-05-17 13:05:10.265"
+        },
+        {
+            "cotacaoCompra": 4.105,
+            "dataHoraCotacao": "2019-05-20 13:11:37.033"
+        },
+        {
+            "cotacaoCompra": 4.0804,
+            "dataHoraCotacao": "2019-05-21 13:02:43.126"
+        },
+        {
+            "cotacaoCompra": 4.0222,
+            "dataHoraCotacao": "2019-05-22 13:10:44.437"
+        },
+        {
+            "cotacaoCompra": 4.0507,
+            "dataHoraCotacao": "2019-05-23 13:09:33.448"
+        },
+        {
+            "cotacaoCompra": 4.0316,
+            "dataHoraCotacao": "2019-05-24 13:07:38.702"
+        },
+        {
+            "cotacaoCompra": 4.0204,
+            "dataHoraCotacao": "2019-05-27 13:04:34.755"
+        },
+        {
+            "cotacaoCompra": 4.0269,
+            "dataHoraCotacao": "2019-05-28 13:03:31.23"
+        },
+        {
+            "cotacaoCompra": 3.9959,
+            "dataHoraCotacao": "2019-05-29 13:11:02.403"
+        },
+        {
+            "cotacaoCompra": 3.9714,
+            "dataHoraCotacao": "2019-05-30 13:07:34.494"
+        },
+        {
+            "cotacaoCompra": 3.9401,
+            "dataHoraCotacao": "2019-05-31 13:10:42.115"
+        },
+        {
+            "cotacaoCompra": 3.8997,
+            "dataHoraCotacao": "2019-06-03 13:08:39.876"
+        },
+        {
+            "cotacaoCompra": 3.8704,
+            "dataHoraCotacao": "2019-06-04 13:24:17.027"
+        },
+        {
+            "cotacaoCompra": 3.8605,
+            "dataHoraCotacao": "2019-06-05 13:09:37.223"
+        },
+        {
+            "cotacaoCompra": 3.872,
+            "dataHoraCotacao": "2019-06-06 13:03:30.338"
+        },
+        {
+            "cotacaoCompra": 3.8565,
+            "dataHoraCotacao": "2019-06-07 13:10:39.673"
+        },
+        {
+            "cotacaoCompra": 3.8784,
+            "dataHoraCotacao": "2019-06-10 13:08:36.147"
+        },
+        {
+            "cotacaoCompra": 3.8658,
+            "dataHoraCotacao": "2019-06-11 13:04:06.604"
+        },
+        {
+            "cotacaoCompra": 3.8431,
+            "dataHoraCotacao": "2019-06-12 13:10:41.911"
+        },
+        {
+            "cotacaoCompra": 3.8423,
+            "dataHoraCotacao": "2019-06-13 13:04:31.756"
+        },
+        {
+            "cotacaoCompra": 3.8807,
+            "dataHoraCotacao": "2019-06-14 13:06:45.43"
+        },
+        {
+            "cotacaoCompra": 3.8889,
+            "dataHoraCotacao": "2019-06-17 13:03:37.449"
+        },
+        {
+            "cotacaoCompra": 3.8602,
+            "dataHoraCotacao": "2019-06-18 13:02:36.281"
+        },
+        {
+            "cotacaoCompra": 3.8717,
+            "dataHoraCotacao": "2019-06-19 13:09:35.962"
+        },
+        {
+            "cotacaoCompra": 3.8249,
+            "dataHoraCotacao": "2019-06-21 13:10:36.087"
+        },
+        {
+            "cotacaoCompra": 3.8228,
+            "dataHoraCotacao": "2019-06-24 13:10:35.774"
+        },
+        {
+            "cotacaoCompra": 3.8297,
+            "dataHoraCotacao": "2019-06-25 13:05:36.866"
+        },
+        {
+            "cotacaoCompra": 3.8435,
+            "dataHoraCotacao": "2019-06-26 13:09:31.528"
+        },
+        {
+            "cotacaoCompra": 3.8636,
+            "dataHoraCotacao": "2019-06-27 13:09:30.652"
+        },
+        {
+            "cotacaoCompra": 3.8316,
+            "dataHoraCotacao": "2019-06-28 13:06:29.684"
+        },
+        {
+            "cotacaoCompra": 3.8187,
+            "dataHoraCotacao": "2019-07-01 13:04:34.81"
+        },
+        {
+            "cotacaoCompra": 3.8558,
+            "dataHoraCotacao": "2019-07-02 13:02:31.855"
+        },
+        {
+            "cotacaoCompra": 3.8469,
+            "dataHoraCotacao": "2019-07-03 13:07:11.013"
+        },
+        {
+            "cotacaoCompra": 3.7934,
+            "dataHoraCotacao": "2019-07-04 13:06:38.134"
+        },
+        {
+            "cotacaoCompra": 3.8198,
+            "dataHoraCotacao": "2019-07-05 13:04:34.465"
+        },
+        {
+            "cotacaoCompra": 3.8059,
+            "dataHoraCotacao": "2019-07-08 13:03:35.309"
+        },
+        {
+            "cotacaoCompra": 3.7846,
+            "dataHoraCotacao": "2019-07-09 13:03:34.964"
+        },
+        {
+            "cotacaoCompra": 3.7691,
+            "dataHoraCotacao": "2019-07-10 13:03:47.446"
+        },
+        {
+            "cotacaoCompra": 3.7527,
+            "dataHoraCotacao": "2019-07-11 13:09:09.885"
+        },
+        {
+            "cotacaoCompra": 3.7446,
+            "dataHoraCotacao": "2019-07-12 13:02:53.23"
+        },
+        {
+            "cotacaoCompra": 3.7457,
+            "dataHoraCotacao": "2019-07-15 13:10:36.121"
+        },
+        {
+            "cotacaoCompra": 3.7618,
+            "dataHoraCotacao": "2019-07-16 13:10:30.809"
+        },
+        {
+            "cotacaoCompra": 3.7612,
+            "dataHoraCotacao": "2019-07-17 13:09:33.254"
+        },
+        {
+            "cotacaoCompra": 3.7483,
+            "dataHoraCotacao": "2019-07-18 13:04:44.397"
+        },
+        {
+            "cotacaoCompra": 3.7402,
+            "dataHoraCotacao": "2019-07-19 13:09:34.798"
+        },
+        {
+            "cotacaoCompra": 3.7394,
+            "dataHoraCotacao": "2019-07-22 13:10:59.268"
+        },
+        {
+            "cotacaoCompra": 3.7615,
+            "dataHoraCotacao": "2019-07-23 13:04:46.092"
+        },
+        {
+            "cotacaoCompra": 3.759,
+            "dataHoraCotacao": "2019-07-24 13:07:35.66"
+        },
+        {
+            "cotacaoCompra": 3.7843,
+            "dataHoraCotacao": "2019-07-25 13:05:19.674"
+        },
+        {
+            "cotacaoCompra": 3.7735,
+            "dataHoraCotacao": "2019-07-26 13:05:14.071"
+        },
+        {
+            "cotacaoCompra": 3.7903,
+            "dataHoraCotacao": "2019-07-29 13:12:02.255"
+        },
+        {
+            "cotacaoCompra": 3.7894,
+            "dataHoraCotacao": "2019-07-30 13:07:28.91"
+        },
+        {
+            "cotacaoCompra": 3.7643,
+            "dataHoraCotacao": "2019-07-31 13:02:35.129"
+        },
+        {
+            "cotacaoCompra": 3.829,
+            "dataHoraCotacao": "2019-08-01 13:07:45.977"
+        },
+        {
+            "cotacaoCompra": 3.8733,
+            "dataHoraCotacao": "2019-08-02 13:10:31.723"
+        },
+        {
+            "cotacaoCompra": 3.9398,
+            "dataHoraCotacao": "2019-08-05 13:07:35.977"
+        },
+        {
+            "cotacaoCompra": 3.9637,
+            "dataHoraCotacao": "2019-08-06 13:08:30.747"
+        },
+        {
+            "cotacaoCompra": 3.9844,
+            "dataHoraCotacao": "2019-08-07 13:11:33.02"
+        },
+        {
+            "cotacaoCompra": 3.9403,
+            "dataHoraCotacao": "2019-08-08 13:08:31.203"
+        },
+        {
+            "cotacaoCompra": 3.9356,
+            "dataHoraCotacao": "2019-08-09 13:11:33.67"
+        },
+        {
+            "cotacaoCompra": 3.996,
+            "dataHoraCotacao": "2019-08-12 13:09:45.511"
+        },
+        {
+            "cotacaoCompra": 3.973,
+            "dataHoraCotacao": "2019-08-13 13:10:36.78"
+        },
+        {
+            "cotacaoCompra": 4.0068,
+            "dataHoraCotacao": "2019-08-14 13:03:36.417"
+        },
+        {
+            "cotacaoCompra": 4.0182,
+            "dataHoraCotacao": "2019-08-15 13:07:32.659"
+        },
+        {
+            "cotacaoCompra": 3.9927,
+            "dataHoraCotacao": "2019-08-16 13:07:37.633"
+        },
+        {
+            "cotacaoCompra": 4.0268,
+            "dataHoraCotacao": "2019-08-19 13:09:34.29"
+        },
+        {
+            "cotacaoCompra": 4.0419,
+            "dataHoraCotacao": "2019-08-20 13:05:33.452"
+        },
+        {
+            "cotacaoCompra": 4.0248,
+            "dataHoraCotacao": "2019-08-21 13:06:56.801"
+        },
+        {
+            "cotacaoCompra": 4.0438,
+            "dataHoraCotacao": "2019-08-22 13:07:58.71"
+        },
+        {
+            "cotacaoCompra": 4.0845,
+            "dataHoraCotacao": "2019-08-23 13:03:40.234"
+        },
+        {
+            "cotacaoCompra": 4.1361,
+            "dataHoraCotacao": "2019-08-26 13:11:38.608"
+        },
+        {
+            "cotacaoCompra": 4.1551,
+            "dataHoraCotacao": "2019-08-27 13:06:31.644"
+        },
+        {
+            "cotacaoCompra": 4.1553,
+            "dataHoraCotacao": "2019-08-28 13:04:33.577"
+        },
+        {
+            "cotacaoCompra": 4.1674,
+            "dataHoraCotacao": "2019-08-29 13:09:45.964"
+        },
+        {
+            "cotacaoCompra": 4.1379,
+            "dataHoraCotacao": "2019-08-30 13:06:39.228"
+        },
+        {
+            "cotacaoCompra": 4.1575,
+            "dataHoraCotacao": "2019-09-02 13:10:40.575"
+        },
+        {
+            "cotacaoCompra": 4.1651,
+            "dataHoraCotacao": "2019-09-03 13:05:34.847"
+        },
+        {
+            "cotacaoCompra": 4.1243,
+            "dataHoraCotacao": "2019-09-04 13:07:49.653"
+        },
+        {
+            "cotacaoCompra": 4.0853,
+            "dataHoraCotacao": "2019-09-05 13:08:45.272"
+        },
+        {
+            "cotacaoCompra": 4.0644,
+            "dataHoraCotacao": "2019-09-06 13:05:41.348"
+        },
+        {
+            "cotacaoCompra": 4.076,
+            "dataHoraCotacao": "2019-09-09 13:10:40.723"
+        },
+        {
+            "cotacaoCompra": 4.1102,
+            "dataHoraCotacao": "2019-09-10 13:11:40.259"
+        },
+        {
+            "cotacaoCompra": 4.0625,
+            "dataHoraCotacao": "2019-09-11 13:02:33.418"
+        },
+        {
+            "cotacaoCompra": 4.0488,
+            "dataHoraCotacao": "2019-09-12 13:08:35.864"
+        },
+        {
+            "cotacaoCompra": 4.061,
+            "dataHoraCotacao": "2019-09-13 13:06:36.853"
+        },
+        {
+            "cotacaoCompra": 4.0866,
+            "dataHoraCotacao": "2019-09-16 13:04:39.901"
+        },
+        {
+            "cotacaoCompra": 4.0992,
+            "dataHoraCotacao": "2019-09-17 13:10:32.842"
+        },
+        {
+            "cotacaoCompra": 4.0966,
+            "dataHoraCotacao": "2019-09-18 13:10:47.836"
+        },
+        {
+            "cotacaoCompra": 4.1387,
+            "dataHoraCotacao": "2019-09-19 13:08:35.568"
+        },
+        {
+            "cotacaoCompra": 4.1681,
+            "dataHoraCotacao": "2019-09-20 13:08:37.472"
+        },
+        {
+            "cotacaoCompra": 4.1728,
+            "dataHoraCotacao": "2019-09-23 13:11:42.21"
+        },
+        {
+            "cotacaoCompra": 4.1715,
+            "dataHoraCotacao": "2019-09-24 13:07:08.372"
+        },
+        {
+            "cotacaoCompra": 4.1821,
+            "dataHoraCotacao": "2019-09-25 13:10:01.22"
+        },
+        {
+            "cotacaoCompra": 4.1463,
+            "dataHoraCotacao": "2019-09-26 13:09:34.075"
+        },
+        {
+            "cotacaoCompra": 4.1581,
+            "dataHoraCotacao": "2019-09-27 13:08:51.782"
+        },
+        {
+            "cotacaoCompra": 4.1638,
+            "dataHoraCotacao": "2019-09-30 13:02:55.944"
+        },
+        {
+            "cotacaoCompra": 4.1734,
+            "dataHoraCotacao": "2019-10-01 13:08:33.662"
+        },
+        {
+            "cotacaoCompra": 4.154,
+            "dataHoraCotacao": "2019-10-02 13:02:48.703"
+        },
+        {
+            "cotacaoCompra": 4.1006,
+            "dataHoraCotacao": "2019-10-03 13:11:41.292"
+        },
+        {
+            "cotacaoCompra": 4.0604,
+            "dataHoraCotacao": "2019-10-04 13:04:35.207"
+        },
+        {
+            "cotacaoCompra": 4.0682,
+            "dataHoraCotacao": "2019-10-07 13:10:34.43"
+        },
+        {
+            "cotacaoCompra": 4.0862,
+            "dataHoraCotacao": "2019-10-08 13:02:31.686"
+        },
+        {
+            "cotacaoCompra": 4.0948,
+            "dataHoraCotacao": "2019-10-09 13:08:35.025"
+        },
+        {
+            "cotacaoCompra": 4.1139,
+            "dataHoraCotacao": "2019-10-10 13:09:35.138"
+        },
+        {
+            "cotacaoCompra": 4.1054,
+            "dataHoraCotacao": "2019-10-11 13:02:39.429"
+        },
+        {
+            "cotacaoCompra": 4.1257,
+            "dataHoraCotacao": "2019-10-14 13:03:44.914"
+        },
+        {
+            "cotacaoCompra": 4.1482,
+            "dataHoraCotacao": "2019-10-15 13:09:38.123"
+        },
+        {
+            "cotacaoCompra": 4.1708,
+            "dataHoraCotacao": "2019-10-16 13:04:01.79"
+        },
+        {
+            "cotacaoCompra": 4.1452,
+            "dataHoraCotacao": "2019-10-17 13:08:38.733"
+        },
+        {
+            "cotacaoCompra": 4.137,
+            "dataHoraCotacao": "2019-10-18 13:09:37.206"
+        },
+        {
+            "cotacaoCompra": 4.1313,
+            "dataHoraCotacao": "2019-10-21 13:09:38.032"
+        },
+        {
+            "cotacaoCompra": 4.0852,
+            "dataHoraCotacao": "2019-10-22 13:10:34.471"
+        },
+        {
+            "cotacaoCompra": 4.0715,
+            "dataHoraCotacao": "2019-10-23 13:04:41.305"
+        },
+        {
+            "cotacaoCompra": 4.0083,
+            "dataHoraCotacao": "2019-10-24 13:03:39.623"
+        },
+        {
+            "cotacaoCompra": 4.0127,
+            "dataHoraCotacao": "2019-10-25 13:10:32.932"
+        },
+        {
+            "cotacaoCompra": 3.9786,
+            "dataHoraCotacao": "2019-10-28 13:07:35.456"
+        },
+        {
+            "cotacaoCompra": 3.994,
+            "dataHoraCotacao": "2019-10-29 13:03:33.12"
+        },
+        {
+            "cotacaoCompra": 4.018,
+            "dataHoraCotacao": "2019-10-30 13:03:36.374"
+        },
+        {
+            "cotacaoCompra": 4.0035,
+            "dataHoraCotacao": "2019-10-31 13:08:45.496"
+        },
+        {
+            "cotacaoCompra": 3.978,
+            "dataHoraCotacao": "2019-11-01 13:08:58.001"
+        },
+        {
+            "cotacaoCompra": 3.9916,
+            "dataHoraCotacao": "2019-11-04 13:03:31.543"
+        },
+        {
+            "cotacaoCompra": 4.0037,
+            "dataHoraCotacao": "2019-11-05 13:10:31.292"
+        },
+        {
+            "cotacaoCompra": 4.0345,
+            "dataHoraCotacao": "2019-11-06 13:05:35.675"
+        },
+        {
+            "cotacaoCompra": 4.0921,
+            "dataHoraCotacao": "2019-11-07 13:11:36.723"
+        },
+        {
+            "cotacaoCompra": 4.1359,
+            "dataHoraCotacao": "2019-11-08 13:11:39.736"
+        },
+        {
+            "cotacaoCompra": 4.1553,
+            "dataHoraCotacao": "2019-11-11 13:02:46.598"
+        },
+        {
+            "cotacaoCompra": 4.175,
+            "dataHoraCotacao": "2019-11-12 13:10:33.461"
+        },
+        {
+            "cotacaoCompra": 4.1761,
+            "dataHoraCotacao": "2019-11-13 13:04:34.593"
+        },
+        {
+            "cotacaoCompra": 4.1825,
+            "dataHoraCotacao": "2019-11-14 13:08:20.36"
+        },
+        {
+            "cotacaoCompra": 4.1821,
+            "dataHoraCotacao": "2019-11-18 13:05:34.414"
+        },
+        {
+            "cotacaoCompra": 4.2078,
+            "dataHoraCotacao": "2019-11-19 13:07:25.508"
+        },
+        {
+            "cotacaoCompra": 4.2027,
+            "dataHoraCotacao": "2019-11-20 13:12:51.976"
+        },
+        {
+            "cotacaoCompra": 4.2006,
+            "dataHoraCotacao": "2019-11-21 13:03:40.946"
+        },
+        {
+            "cotacaoCompra": 4.1826,
+            "dataHoraCotacao": "2019-11-22 13:10:34.906"
+        },
+        {
+            "cotacaoCompra": 4.2083,
+            "dataHoraCotacao": "2019-11-25 13:07:45.424"
+        },
+        {
+            "cotacaoCompra": 4.2553,
+            "dataHoraCotacao": "2019-11-26 13:06:35.051"
+        },
+        {
+            "cotacaoCompra": 4.2596,
+            "dataHoraCotacao": "2019-11-27 13:09:31.449"
+        },
+        {
+            "cotacaoCompra": 4.2474,
+            "dataHoraCotacao": "2019-11-28 13:05:40.116"
+        },
+        {
+            "cotacaoCompra": 4.2234,
+            "dataHoraCotacao": "2019-11-29 13:07:41.629"
+        },
+        {
+            "cotacaoCompra": 4.2255,
+            "dataHoraCotacao": "2019-12-02 13:11:22.529"
+        },
+        {
+            "cotacaoCompra": 4.2002,
+            "dataHoraCotacao": "2019-12-03 13:10:42.091"
+        },
+        {
+            "cotacaoCompra": 4.192,
+            "dataHoraCotacao": "2019-12-04 13:10:28.492"
+        },
+        {
+            "cotacaoCompra": 4.213,
+            "dataHoraCotacao": "2019-12-05 13:07:59.411"
+        },
+        {
+            "cotacaoCompra": 4.1777,
+            "dataHoraCotacao": "2019-12-06 13:06:00.52"
+        },
+        {
+            "cotacaoCompra": 4.1497,
+            "dataHoraCotacao": "2019-12-09 13:07:15.846"
+        },
+        {
+            "cotacaoCompra": 4.1421,
+            "dataHoraCotacao": "2019-12-10 13:05:14.56"
+        },
+        {
+            "cotacaoCompra": 4.1147,
+            "dataHoraCotacao": "2019-12-11 13:03:13.547"
+        },
+        {
+            "cotacaoCompra": 4.1086,
+            "dataHoraCotacao": "2019-12-12 13:10:39.755"
+        },
+        {
+            "cotacaoCompra": 4.0943,
+            "dataHoraCotacao": "2019-12-13 13:06:05.033"
+        },
+        {
+            "cotacaoCompra": 4.0795,
+            "dataHoraCotacao": "2019-12-16 13:15:08.681"
+        },
+        {
+            "cotacaoCompra": 4.0681,
+            "dataHoraCotacao": "2019-12-17 13:12:11.158"
+        },
+        {
+            "cotacaoCompra": 4.0542,
+            "dataHoraCotacao": "2019-12-18 13:03:49.714"
+        },
+        {
+            "cotacaoCompra": 4.0627,
+            "dataHoraCotacao": "2019-12-19 13:09:56.245"
+        },
+        {
+            "cotacaoCompra": 4.0771,
+            "dataHoraCotacao": "2019-12-20 13:04:53.239"
+        },
+        {
+            "cotacaoCompra": 4.0751,
+            "dataHoraCotacao": "2019-12-23 13:04:48.847"
+        },
+        {
+            "cotacaoCompra": 4.0793,
+            "dataHoraCotacao": "2019-12-24 11:05:13.242"
+        },
+        {
+            "cotacaoCompra": 4.0595,
+            "dataHoraCotacao": "2019-12-26 13:10:22.686"
+        },
+        {
+            "cotacaoCompra": 4.0539,
+            "dataHoraCotacao": "2019-12-27 13:04:24.523"
+        },
+        {
+            "cotacaoCompra": 4.0301,
+            "dataHoraCotacao": "2019-12-30 13:10:15.159"
+        },
+        {
+            "cotacaoCompra": 4.0301,
+            "dataHoraCotacao": "2019-12-31 11:22:18.041"
+        }
+    ]

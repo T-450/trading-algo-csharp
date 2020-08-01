@@ -1,0 +1,17 @@
+C:\Users\edwar\source\repos\TradingAlgoThiago\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\edwar\source\repos\TradingAlgoThiago\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\edwar\source\repos\TradingAlgoThiago\bin\Debug\netcoreapp2.2\Data\COTACAO_2019.json
+C:\Users\edwar\source\repos\TradingAlgoThiago\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\edwar\source\repos\TradingAlgoThiago\bin\Debug\netcoreapp2.2\TradingAlgoThiago.deps.json
+C:\Users\edwar\source\repos\TradingAlgoThiago\bin\Debug\netcoreapp2.2\TradingAlgoThiago.runtimeconfig.json
+C:\Users\edwar\source\repos\TradingAlgoThiago\bin\Debug\netcoreapp2.2\TradingAlgoThiago.runtimeconfig.dev.json
+C:\Users\edwar\source\repos\TradingAlgoThiago\bin\Debug\netcoreapp2.2\TradingAlgoThiago.dll
+C:\Users\edwar\source\repos\TradingAlgoThiago\bin\Debug\netcoreapp2.2\TradingAlgoThiago.pdb
+C:\Users\edwar\source\repos\TradingAlgoThiago\obj\Debug\netcoreapp2.2\TradingAlgoThiago.csprojAssemblyReference.cache
+C:\Users\edwar\source\repos\TradingAlgoThiago\obj\Debug\netcoreapp2.2\TradingAlgoThiago.RazorAssemblyInfo.cache
+C:\Users\edwar\source\repos\TradingAlgoThiago\obj\Debug\netcoreapp2.2\TradingAlgoThiago.RazorAssemblyInfo.cs
+C:\Users\edwar\source\repos\TradingAlgoThiago\obj\Debug\netcoreapp2.2\TradingAlgoThiago.AssemblyInfoInputs.cache
+C:\Users\edwar\source\repos\TradingAlgoThiago\obj\Debug\netcoreapp2.2\TradingAlgoThiago.AssemblyInfo.cs
+C:\Users\edwar\source\repos\TradingAlgoThiago\obj\Debug\netcoreapp2.2\TradingAlgoThiago.RazorTargetAssemblyInfo.cache
+C:\Users\edwar\source\repos\TradingAlgoThiago\obj\Debug\netcoreapp2.2\TradingAlgoThiago.dll
+C:\Users\edwar\source\repos\TradingAlgoThiago\obj\Debug\netcoreapp2.2\TradingAlgoThiago.pdb
